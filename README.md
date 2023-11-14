@@ -1,5 +1,3 @@
-# Profile
-Hello!
 {% extends 'core/base.html' %}
 
 <!DOCTYPE html>
